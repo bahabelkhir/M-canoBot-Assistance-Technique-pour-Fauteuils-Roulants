@@ -60,6 +60,8 @@ Bootstrap : Framework pour une interface responsive et moderne
 
 ## 📸 Vue d'ensemble de l'applicationn
 
+![Image](https://github.com/user-attachments/assets/0c313c3a-d29e-4f93-84a6-3dc4cdb16285)
+
 
 
 
